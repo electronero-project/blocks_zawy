@@ -1,0 +1,9 @@
+Block {309367..309467}
+{
+  "error": {
+    "code": -32700,
+    "message": "Parse error"
+  },
+  "id": 0,
+  "jsonrpc": ""
+}
